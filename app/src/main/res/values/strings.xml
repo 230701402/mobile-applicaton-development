@@ -1,3 +1,15 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">celsius and fahernheit</string>
+=======
+<<<<<<< HEAD
+    <string name="app_name">Android simple calculator</string>
+=======
+<<<<<<< HEAD
+    <string name="app_name">Random number generator</string>
+=======
+    <string name="app_name">BMI CALCULATOR</string>
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
+>>>>>>> 75c4b15cdaf5df64ab0c5308be4fdf58baa3abba
+>>>>>>> ec63d121187640f9fdbb99299aaa902892bbfaa8
 </resources>

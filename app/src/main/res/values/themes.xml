@@ -1,9 +1,33 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.CelsiusAndFahernheit" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.AndroidSimpleCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.RandomNumberGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.BMICALCULATOR" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
+>>>>>>> 75c4b15cdaf5df64ab0c5308be4fdf58baa3abba
+>>>>>>> ec63d121187640f9fdbb99299aaa902892bbfaa8
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.CelsiusAndFahernheit" parent="Base.Theme.CelsiusAndFahernheit" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.AndroidSimpleCalculator" parent="Base.Theme.AndroidSimpleCalculator" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.RandomNumberGenerator" parent="Base.Theme.RandomNumberGenerator" />
+=======
+    <style name="Theme.BMICALCULATOR" parent="Base.Theme.BMICALCULATOR" />
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
+>>>>>>> 75c4b15cdaf5df64ab0c5308be4fdf58baa3abba
+>>>>>>> ec63d121187640f9fdbb99299aaa902892bbfaa8
 </resources>
