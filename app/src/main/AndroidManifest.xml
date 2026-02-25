@@ -10,7 +10,23 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.PANCardNumber">
+=======
+<<<<<<< HEAD
+        android:theme="@style/Theme.CelsiusAndFahernheit">
+=======
+<<<<<<< HEAD
+        android:theme="@style/Theme.AndroidSimpleCalculator">
+=======
+<<<<<<< HEAD
+        android:theme="@style/Theme.RandomNumberGenerator">
+=======
+        android:theme="@style/Theme.BMICALCULATOR">
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
+>>>>>>> 75c4b15cdaf5df64ab0c5308be4fdf58baa3abba
+>>>>>>> ec63d121187640f9fdbb99299aaa902892bbfaa8
+>>>>>>> aef43b6e9d43800ac36709fefd9762800fb427cf
         <activity
             android:name=".MainActivity"
             android:exported="true">
