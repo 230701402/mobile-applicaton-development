@@ -22,5 +22,15 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Android(simple calculator"
 include(":app")
+=======
+<<<<<<< HEAD
+rootProject.name = "Random number generator"
+=======
+rootProject.name = "BMI CALCULATOR"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
+include(":app")
+ 
+>>>>>>> 75c4b15cdaf5df64ab0c5308be4fdf58baa3abba
