@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Random number generator</string>
+=======
+    <string name="app_name">BMI CALCULATOR</string>
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
 </resources>

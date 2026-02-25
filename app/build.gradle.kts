@@ -3,7 +3,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.randomnumbergenerator"
+=======
+    namespace = "com.example.bmicalculator"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +15,11 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.randomnumbergenerator"
+=======
+        applicationId = "com.example.bmicalculator"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
         minSdk = 24
         targetSdk = 36
         versionCode = 1

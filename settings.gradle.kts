@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Random number generator"
+=======
+rootProject.name = "BMI CALCULATOR"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
 include(":app")
  

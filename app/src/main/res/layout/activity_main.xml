@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+<<<<<<< HEAD
     android:gravity="center"
     android:padding="24dp">
 
@@ -27,13 +28,42 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Generate Random Number"
+=======
+    android:padding="24dp"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/editWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter weight (kg)"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editHeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter height (meters)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/btnCalculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate BMI"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
         android:layout_marginTop="20dp"/>
 
     <TextView
         android:id="@+id/textResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:text="Random number will appear here"
+=======
+        android:text="Your BMI will appear here"
+>>>>>>> 22e9640982f0449a330b10b01d6647833f11e5da
         android:textSize="18sp"
         android:layout_marginTop="24dp"/>
 
